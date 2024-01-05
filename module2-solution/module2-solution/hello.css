@@ -1,0 +1,41 @@
+@media (min-width:992px)
+{ .section container {
+  width:33.33%;
+  float:left;
+  background-color:peru;
+  border: 1px bold black;
+  height: 20px;
+}
+
+}
+@media(min-width:768px) and (max-width:991px)
+{ .section1 .section2{
+  width:66.66%;
+  float:left;
+  background-color:gray;
+  border: 1px solid black;
+}
+.section3{
+  width: 100%;
+  background-color: beige;
+  border: 1px solid black;
+
+}
+
+}
+@media(max-width:767px){
+  .section container{
+    width:100%;
+    background-color: blanchedalmond;
+    float: left;
+    border: 1px solid black;
+  }
+.title{
+position :relative;
+top:0;
+right:0;
+}
+}
+*{
+  box-sizing:border-box;
+}
