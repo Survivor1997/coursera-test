@@ -2,7 +2,6 @@
  box-sizing: border-box;
 padding:0;
 
- 
 }
 h1{
   text-align: center;
@@ -28,7 +27,6 @@ float: right;
 #span{
   display: block;
   clear: right;
-
 }
 p{
   background-color: gray;
@@ -54,7 +52,7 @@ p{
 width:100%;
   }
   #p2{
-wtermiteridth:100%;
+width:100%;
   }
   #p3{
 width:100%;
